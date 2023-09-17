@@ -1,0 +1,7 @@
+Here is the Java code equivalent to the provided code snippet:
+
+```java
+System.out.println("This code is from frontend");
+```
+
+This code prints the text "This code is from frontend" to the console.
